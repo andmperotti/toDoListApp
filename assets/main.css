@@ -353,7 +353,7 @@
 
 
 /* my css */
-body{
+#user{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -402,3 +402,6 @@ li span{
     /* background-color: black */
 }
 
+h2{
+  text-align: center;
+}
