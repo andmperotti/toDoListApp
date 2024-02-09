@@ -1,4 +1,4 @@
-##To Do Tasks App
+## To Do Tasks App
 Here's a simple and clean-looking app for users to jot down tasks they need to remind themselves to complete. Entries persist on page refresh.
 
 **Link to project:** https://superb-pavlova-3e1efa.netlify.app/
